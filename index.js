@@ -10,13 +10,13 @@
 //            repeat:-1,
 // })
 
-// gsap.from(".page2 #box",{
+
+// gsap.from(".box",{
 //          scale:0,
 //          rotate:360,
 //          duration:2,
-//          markers:true,
 //          scrollTrigger:{
-//           trigger:'.page2 #box',
+//           trigger:'.box',
 //           scroller:'body',
 //           scrub:true,
 //          }

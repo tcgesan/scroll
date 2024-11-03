@@ -16,11 +16,12 @@
 .page2{
           width: 100%;
           display: flex;
-          justify-content: space-evenly;
+          justify-content: center;
+          row-gap: 30px;
           flex-direction: column;
           flex-wrap: wrap;
           align-items: center;
-          height: 100vh;
+          height: auto;
           background-color: rgb(132, 132, 224);
 }
 
